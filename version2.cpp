@@ -24,4 +24,5 @@ int main()
 
 		cout << "\nThe result is : " << result << "\n\n";
 	}
+	return 0;
 }
